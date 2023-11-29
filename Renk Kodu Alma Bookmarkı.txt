@@ -1,0 +1,1 @@
+javascript:var%20root%3Ddocument.documentElement%2Cstyles%3DgetComputedStyle(root)%2CheroColor%3Dstyles.getPropertyValue(%22--hero%22).trim().slice(1)%2CuserInput%3Dprompt(%22Hero%20Rengini%20buradan%20kopyala%22%2CheroColor)%3Bconsole.log(userInput)%3Bvoid+0
